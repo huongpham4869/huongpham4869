@@ -2,7 +2,7 @@
 
 **Fresher / Junior Business Analyst** · Requirements analysis · Process modelling · KPI analysis
 
-I have 4+ years of experience in cross-border e-commerce product development and operations, working with print-on-demand products sold on Etsy. In that role I researched products and markets, clarified product requirements with designers and suppliers, tracked orders with suppliers and the operations team, and reported operational KPIs every week.
+I have 4+ years of experience in cross-border e-commerce product development and operations, working with print-on-demand products sold on Etsy. In that role I researched print-on demand products and markets, clarified product requirements with designers and suppliers, tracked orders with suppliers and the operations team, and reported operational KPIs every week.
 
 I am now moving into business analysis. The two case studies below show how I take a business problem from evidence to requirements, process changes and testable acceptance criteria.
 
